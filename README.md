@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/iamtroy" target="blank"><img src="https://img.shields.io/twitter/follow/iamtroy?logo=twitter&style=for-the-badge" alt="iamtroy" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel, Springboot**
+- 🌱 I’m currently learning **Refine, Laravel, Springboot**
 
-- 💬 Ask me about **Nextjs**
+- 💬 Ask me about **MERN Stack Development**
 
 - 📫 How to reach me **mugabimoses07@gmail.com**
 
-- ⚡ Fun fact **I am friendly and funny**
+- ⚡ Fun fact **I love coding. Hobbies are sports, music, reading, skating, swimming, movies. I am friendly and funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
