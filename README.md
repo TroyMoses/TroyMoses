@@ -19,8 +19,8 @@
 <a href="https://twitter.com/@iamtroy256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamtroy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/troymoses" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="troymoses" height="30" width="40" /></a>
 <a href="https://fb.com/troy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="troy" height="30" width="40" /></a>
-<a href="https://instagram.com/_troylegacy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="troy_sean_mowzey" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/troy moses" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="troy moses" height="30" width="40" /></a>
+<a href="https://instagram.com/troy_sean_mowzey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="troy_sean_mowzey" height="30" width="40" /></a>
+<a href="https://youtube.com/@troymoses8263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="troy moses" height="30" width="40" /></a>
 <a href="https://discord.gg/troy256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="troy256" height="30" width="40" /></a>
 </p>
 
