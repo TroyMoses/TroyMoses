@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/iamtroy" target="blank"><img src="https://img.shields.io/twitter/follow/iamtroy?logo=twitter&style=for-the-badge" alt="iamtroy" /></a> </p>
 
-- 🌱 I’m currently learning **Refine, Laravel, Springboot**
+- 🌱 I’m currently learning **FastAPI, Machine Learning, Refine**
 
-- 💬 Ask me about **MERN Stack Development**
+- 💬 Ask me about **Full Stack Development**
 
 - 📫 How to reach me **mugabimoses07@gmail.com**
 
